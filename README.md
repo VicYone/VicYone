@@ -16,10 +16,10 @@ Estudante de Análise de Dados na Unifecaf.
 
 ## Ferramentas
 
-**Dados:** SQL/MySQL · R · Python · Power BI · Qlik Cloud · Excel
-**Automação:** APIs REST · Power Automate · web scraping · tarefas agendadas
-**IA:** Claude Code · agentes e subagentes · prompts estruturados com etapas de checagem
-**Web:** HTML · CSS · JavaScript · Node.js
+- **Dados:** SQL/MySQL · R · Python · Power BI · Qlik Cloud · Excel
+- **Automação:** APIs REST · Power Automate · web scraping · tarefas agendadas
+- **IA:** Claude Code · agentes e subagentes · prompts estruturados com etapas de checagem
+- **Web:** HTML · CSS · JavaScript · Node.js
 
 ## Contato
 
